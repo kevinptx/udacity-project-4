@@ -2,7 +2,7 @@
 This project operationalizes a Machine Learning Microservice API to preodict the housing prices in Boston.
 
 ## Build status
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![kevinptx](https://circleci.com/gh/kevinptx/udacity-project4.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 
 ## Summary
