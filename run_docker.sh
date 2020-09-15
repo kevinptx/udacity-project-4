@@ -12,4 +12,4 @@ docker images ls
 
 # Step 3: 
 # Run flask app
-docker run -p 80:8000 udacityproject
+docker run -p 8000:80 udacityproject
