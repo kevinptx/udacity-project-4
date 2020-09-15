@@ -12,7 +12,7 @@ dockerpath=kevinptx/udacityproject
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login --username kpeery
-docker tag udacityproject $udacityproject
+docker tag udacityproject $dockerpath
 
 # Step 3:
 # Push image to a docker repository
